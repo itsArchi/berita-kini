@@ -44,8 +44,8 @@ const NewsByCategory = () => {
   };
 
   return (
-    <div className="min-h-screen flex justify-center items-center">
-      <div className="w-full max-w-screen-xl">
+    <div className="flex justify-center items-center px-[220px]">
+      <div className="w-full ">
         <Navbar />
         <div className="grid grid-cols-4 gap-8 mt-8">
           {currentNews.map((item) => (
