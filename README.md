@@ -1,8 +1,12 @@
-# React + Vite
+<h1> Technical Test Front End Development </h1>
+Noer Rohim </br>
+noerrohim10@gmail.com
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2> FITUR  </h2>
+(+) Fetch API berhasil. </br>
+(+) Fetch API sesuai dengan category pada navbar. </br>
+(+) Pagination berfungsi sesuai dengan jumlah halaman. </br> 
+</br>
+(-) Responsive Desin. </br>
+(-) Gagal fetch API untuk detail berita. </br>
+(-) Page detail berita belum selesai, karena gagal fetch API. </br>
